@@ -1,4 +1,4 @@
-# 🎯 Resume2Web AI
+# 🎯 AI-Powered Resume to Portfolio Website Generator
 
 **Resume2Web AI** is an AI-powered application that automatically converts a resume (PDF/DOCX) or a manual text prompt into a **professional, responsive portfolio website** using modern frontend technologies.
 
